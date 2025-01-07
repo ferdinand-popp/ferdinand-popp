@@ -1,6 +1,6 @@
 👋 Hi, I’m @ferdinand-popp
 
-Currently I’m a Master of Science Student Molecular Biology at the University of Heidelberg and the German Cancer Research Center.
+Currently I’m a prospective PhD candidate at the University of Heidelberg and the German Cancer Research Center.
 In this account I forked interesting projects to learn and combine them.
 
 Most projects I did are currently private, until they are published or if they contain sensible patient data. Some of my projects are private due to company affiliation, sorry!
@@ -11,6 +11,7 @@ Bioinformatic projects (can be requested):
 - Differential Expression Analysis of RNAseq Data & GSEA
 - Evaluating Oxford Nanopore sequencing for engineered AAV capsid sequencing
 - Pharmaceutical Bioinformatics: Bioactivity Prediction for SMILES on protein
+- Multiple ML projects that we teach in the Bioinformatics courses at the university
 
 
 <!---
