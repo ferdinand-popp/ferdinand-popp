@@ -11,6 +11,7 @@ Bioinformatic projects (can be requested):
 - Cancer patient graphs: Extracting knowledge from multi-omics and clinical datasets using effective graph autoencoders
 - Cancer Knowledge Graph: Building customized patient representations with BioCypher
 - LocalBioinfoAI: Running local LLMs for agentic AI in bioinformatics in sensitive environments
+- ALT-LB: detecting Alternative Lengthening of Telomeres from liquid biopsy sequencing
 - Differential Expression Analysis of RNAseq Data & GSEA
 - Evaluating Oxford Nanopore sequencing for engineered AAV capsid sequencing
 - Pharmaceutical Bioinformatics: Bioactivity Prediction for SMILES on protein
